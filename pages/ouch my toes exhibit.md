@@ -1,7 +1,7 @@
 ---
 title: Ouch! My Toes
 layout: about
-permalink: /ouch my toes exhibit.html
+permalink: /ouch-my-toes-exhibit.html
 ---
 {% include feature/jumbotron.html objectid="_includes/image/exhibitcover.jpg" %}
 # Ouch! My Toes!
