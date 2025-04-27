@@ -2,14 +2,21 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date_created,Date,
 description,Description,
+brand,Brand,
 subject,Subjects,true
+primarycolor,Primary Color,
+primarymaterial,Material Type,
+constructiontechnique,Construction Technique,
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
+donor,Donor,
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+language,Language,
 rights,Rights,
 rightsstatement,Rights Statement,,true
