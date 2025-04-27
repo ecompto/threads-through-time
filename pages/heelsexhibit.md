@@ -3,7 +3,7 @@ title: Ouch! My Toes
 layout: about
 permalink: /heelsexhibit.html
 ---
-{% include feature/jumbotron.html objectid="_includes/image/exhibitcover.jpg" %}
+{% include feature/jumbotron.html objectid="exhibitcover.jpg" %}
 
 # Ouch! My Toes!
 We all know the story of Cinderella and her glass slipper, and how its loss and discovery represents a beautiful transformation from servant girl to princess. But do we know how the high heeled design of her glass slipper came to be?
@@ -12,7 +12,7 @@ While high heels are associated considerably with femineity, they were originall
 
 When female aristocrats in France also began to wear heels, their structure was significantly redesigned to be more petite, changing women’s silhouette’s to be more desirable, making them appear taller and thinner while pushing out both their chest and butt. With this redesign, a woman’s weight was redistributed primarily to the balls of her feet, and with their toes pinched by pointed designs, heels signified that the wearer was wealthy enough to not have to walk, as walking in heels for long periods of time was painful.
 
-{% include feature/image.html objectid="_includes/image/heels1.jpg;_includes/image/heels2.jpg" %}
+{% include feature/image.html objectid="heels1.jpg;heels2.jpg" %}
 
 Up until the 19th century, heels were regulated to the rich and ruling classes who sported frivolous and ornately decorated pairs of heels for every event. But as materials became more accessible thanks to the industrial revolution more classes of women began to own and wear heels despite their discomfort.
 
@@ -28,7 +28,7 @@ Pumps were characterized by their short squat heel often between 1 ½” and 2�
 #### Platforms
 Platform heels as we know them were popularized in the latter portion of the 20th century but have their roots in the early part of the century with low wedge heels accompanied by front platforms. Platforms were typically given to heels when they were 4” in height to make them more comfortable. Their design often varied with time but typically featured open toes and ankle straps.
 
-{% include feature/image.html objectid="_includes/image/heelsadvert.jpg" %}
+{% include feature/image.html objectid="heelsadvert.jpg" %}
 
 ### The Modern High Heel
 For many the high heel is a construct imposed upon women to fit the male gaze, while others see them as a tool to improve their confidence. Regardless, most women acknowledge that they are painful to wear, pinching toes, altering posture, and even causing instability in knees and backs.
