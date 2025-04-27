@@ -19,8 +19,9 @@ Up until the 19th century, heels were regulated to the rich and ruling classes w
 ### Heels during the 20th century
 Seen as the height of femininity, heels became part of the female dress code, worn for social events and as part of the female work uniform. During the Roaring 20s, with all the glitz and glam, heels were frivolously decorated and often showcased cutouts and straps to show off as much skin as possible. This was in direct contrast to the late 19th, early 20th century previous styles of high lace up boots that were seen as modest. Throughout the course of the 20th century the design of heels changed drastically, swinging like a pendulum between short and tall, plain and extravagant, as economies rose and fell and as women became a greater part of the workforce. Some of the most common types of heels were created during this time: Stiletto’s, Pumps, and Platforms.
 
-{% include feature/image.html objectid="vcat010;vcat011;vcat013;" width="75" %}
-{% include feature/image.html objectid="vcat014;vcat028;vcat029;vcat030" width="75" %}
+{% include feature/image.html objectid="vcat011;vcat013;" width="40" %}
+{% include feature/image.html objectid="vcat014;vcat028;vcat029" width="55" %}
+{% include feature/image.html objectid="vcat10;vcat030" width="40" %}
 
 #### Stilettos
 Stilettos were usually 3” in height and were characterized by their iconic slim heel and pointed toe. Stilettos were the most prominent heel design of the 20th century, considered to be the classic height that gave women the elegant and slimming posture they saw in the media. While iconic, these types of heels were some of the most uncomfortable, pinching toes and making it difficult to walk.
