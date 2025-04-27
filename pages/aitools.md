@@ -3,6 +3,7 @@ title: Integration of AI Tools for Metadata Creation
 layout: about
 permalink: /aitools.html
 ---
+{% include feature/jumbotron.html objectid="assets/img/aitools.jpg" %}
 # Integration of AI Tools for Metadata Creation
 One of the most challenging aspects of digital collection management is metadata creation, the descriptive information that enables searchability and discovery of individual items and collections as a whole. Traditionally metadata is manually curated, a process that can be time-consuming and complex particularly in the case of large or specialized collections like those in the Virginia Tech Costume and Textile Collection.
 
