@@ -21,7 +21,7 @@ Seen as the height of femininity, heels became part of the female dress code, wo
 
 {% include feature/image.html objectid="vcat011;vcat013;" width="40" %}
 {% include feature/image.html objectid="vcat014;vcat028;vcat029" width="55" %}
-{% include feature/image.html objectid="vcat10;vcat030" width="40" %}
+{% include feature/image.html objectid="vcat010;vcat030" width="40" %}
 
 #### Stilettos
 Stilettos were usually 3” in height and were characterized by their iconic slim heel and pointed toe. Stilettos were the most prominent heel design of the 20th century, considered to be the classic height that gave women the elegant and slimming posture they saw in the media. While iconic, these types of heels were some of the most uncomfortable, pinching toes and making it difficult to walk.
